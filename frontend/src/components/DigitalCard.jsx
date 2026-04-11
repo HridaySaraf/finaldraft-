@@ -24,7 +24,7 @@ const DigitalCard = () => {
       person: 'Mahadev Printers',
       phone: '+91 9821149384',
       email: 'npprinters@gmail.com',
-      website: 'printpure.preview.emergentagent.com',
+      website: 'mahadevprinters.vercel.app',
       whatsapp: '919821149384',
       address: '250/252 Bazargate Street, Fort Mumbai -400001',
       mapsUrl: 'https://www.google.com/maps/search/?api=1&query=250%2F252+Bazargate+Street%2C+Fort%2C+Mumbai+400001'
